@@ -2,7 +2,7 @@
 
 Projeto Santander Bootcamp 2023 - Backend Java
 
-Projeto API RESTful
+RESTful API construída em Java 17 com Spring Boot 3.
 
 ## Diagrama de Classes
 
