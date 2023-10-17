@@ -5,6 +5,7 @@ Projeto Santander Bootcamp 2023 - Backend Java
 Projeto API RESTful
 
 ## Diagrama de Classes
+
 ```mermaid
 classDiagram
   class User {
@@ -42,4 +43,5 @@ classDiagram
   User "1" *-- "1" Card
   User "1" *-- "N" News
 ```mermaid
+
 
