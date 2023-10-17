@@ -1,4 +1,4 @@
-# Santander-bootcamp-dio
+# Santander Bootcamp Dio
 
 Projeto Santander Bootcamp 2023 - Backend Java
 
